@@ -16,7 +16,7 @@ Each corpus included in this dataset contains two types of files:
 
 * The original CLTE-SemEval dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 Publications or presentations containing results obtained through the use of CLTE-SemEval should cite the following reference:
-    ** Matteo Negri, Luisa Bentivogli, Yashar Mehdad, Danilo Giampiccolo, and Alessandro Marchetti. 2011.
+    * Matteo Negri, Luisa Bentivogli, Yashar Mehdad, Danilo Giampiccolo, and Alessandro Marchetti. 2011.
     Divide and Conquer: Crowdsourcing the Creation of Cross-Lingual Textual Entailment Corpora.
     Proceedings of the 2011 Conference on Empirical Methods in Natural Language Processing (EMNLP 2011).
  
